@@ -5,6 +5,9 @@
     "try id_ed25519.pub",
     "read @docs/PRD.md and we will prepare to scaffold our project.",
     "read @docs/PRD.md and we will prepare to scaffold our project.\n\nwere gonna use slacks slackbot infa and only have it recieve messages from the agents and send to channel \n\nconsole will only interact with the agents",
-    " git add . and push to github"
+    " git add . and push to github",
+    "https://github.com/admingistai/daily-agent-slackbot",
+    "use ssh for https://github.com/admingistai/daily-agent-slackbot \n\ntry all our pub keys",
+    "you did it wrong? [Image #1] the repo has a folder of the whole project? is it a level too high?"
   ]
 }

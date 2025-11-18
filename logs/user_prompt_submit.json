@@ -38,5 +38,29 @@
     "permission_mode": "bypassPermissions",
     "hook_event_name": "UserPromptSubmit",
     "prompt": " git add . and push to github"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "https://github.com/admingistai/daily-agent-slackbot"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "use ssh for https://github.com/admingistai/daily-agent-slackbot \n\ntry all our pub keys"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "you did it wrong? [Image #1] the repo has a folder of the whole project? is it a level too high?"
   }
 ]
