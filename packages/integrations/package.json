@@ -12,8 +12,7 @@
   "dependencies": {
     "@daily-agent/shared": "workspace:*",
     "@linear/sdk": "^21.0.0",
-    "@octokit/rest": "^20.0.2",
-    "arxiv-api": "^3.0.0"
+    "@octokit/rest": "^20.0.2"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",

@@ -62,5 +62,37 @@
     "permission_mode": "bypassPermissions",
     "hook_event_name": "UserPromptSubmit",
     "prompt": "you did it wrong? [Image #1] the repo has a folder of the whole project? is it a level too high?"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "added to github, walk me through the next steps to test it out"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "plan",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "read file:///Users/tjmcgovern/daily-agent-slackbot/docs/MONOREPO.md\n\ni think we might need to restructure my project. tell me if im wrong"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "Option 1: Strict Compliance - Move dev deps to individual workspaces (follows MONOREPO.md exactly)"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "so now how do we make this slackbot? "
   }
 ]

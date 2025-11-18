@@ -8,6 +8,10 @@
     " git add . and push to github",
     "https://github.com/admingistai/daily-agent-slackbot",
     "use ssh for https://github.com/admingistai/daily-agent-slackbot \n\ntry all our pub keys",
-    "you did it wrong? [Image #1] the repo has a folder of the whole project? is it a level too high?"
+    "you did it wrong? [Image #1] the repo has a folder of the whole project? is it a level too high?",
+    "added to github, walk me through the next steps to test it out",
+    "read file:///Users/tjmcgovern/daily-agent-slackbot/docs/MONOREPO.md\n\ni think we might need to restructure my project. tell me if im wrong",
+    "Option 1: Strict Compliance - Move dev deps to individual workspaces (follows MONOREPO.md exactly)",
+    "so now how do we make this slackbot? "
   ]
 }

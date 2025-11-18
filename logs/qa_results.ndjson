@@ -877,3 +877,55 @@
 {"timestamp": "2025-11-18T11:48:57.721390", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
 {"timestamp": "2025-11-18T11:48:58.495115", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/layout.tsx:1:31", "message": "error TS2307: Cannot find module 'next' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:12:13", "message": "error TS2503: Cannot find namespace 'React'.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:15:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:16:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
 {"timestamp": "2025-11-18T11:48:59.255975", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/page.tsx:3:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:4:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:5:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:6:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:9:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:10:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:11:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:12:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:16:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:17:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:18:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:22:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:23:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:24:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:58:20.716485", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:58:20.740027", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:58:20.840357", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:58:20.861497", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:58:20.881742", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:15.476741", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:15.507592", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:15.618119", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:15.638108", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:15.656664", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:45.541601", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:45.578018", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:45.690133", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:45.710992", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:47.075973", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:19:9", "message": "error TS2322: Type 'unknown[]' is not assignable to type '(Block | KnownBlock)[]'.", "code": "", "severity": 1}, {"type": "lint", "location": "  Type 'unknown' is not assignable to type 'Block | KnownBlock'.\npackages/slack/src/client.ts:20:9", "message": "error TS2739: Type 'Record<string, unknown>' is missing the following properties from type 'MessageMetadata': event_type, event_payload", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:73:7", "message": "error TS2322: Type 'unknown[]' is not assignable to type '(Block | KnownBlock)[]'.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:59:47.097667", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:57.243733", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:57.319333", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:57.362838", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:57.477053", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:57.498924", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:59:58.559247", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:19:9", "message": "error TS2322: Type 'unknown[]' is not assignable to type '(Block | KnownBlock)[]'.", "code": "", "severity": 1}, {"type": "lint", "location": "  Type 'unknown' is not assignable to type 'Block | KnownBlock'.\npackages/slack/src/client.ts:20:9", "message": "error TS2739: Type 'Record<string, unknown>' is missing the following properties from type 'MessageMetadata': event_type, event_payload", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:73:7", "message": "error TS2322: Type 'unknown[]' is not assignable to type '(Block | KnownBlock)[]'.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:59:58.580814", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:00:25.273295", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:00:25.350675", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:00:25.397220", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:00:25.507440", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:00:25.527057", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:00:26.549752", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:19:9", "message": "error TS2322: Type 'unknown[]' is not assignable to type '(Block | KnownBlock)[]'.", "code": "", "severity": 1}, {"type": "lint", "location": "  Type 'unknown' is not assignable to type 'Block | KnownBlock'.\npackages/slack/src/client.ts:20:9", "message": "error TS2739: Type 'Record<string, unknown>' is missing the following properties from type 'MessageMetadata': event_type, event_payload", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:73:7", "message": "error TS2322: Type 'unknown[]' is not assignable to type '(Block | KnownBlock)[]'.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T12:00:26.568583", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:28.033424", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:28.118004", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:28.328099", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:28.445412", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:28.465892", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:37.274203", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:37.358439", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:37.575747", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:37.698810", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:05:37.719513", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:06:26.118003", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:06:26.206737", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:06:26.519827", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:06:26.657816", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:06:26.678642", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:06:26.697249", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:07:06.850095", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:07:06.937671", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:07:07.343059", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:07:07.486827", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:07:07.509226", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T12:07:07.529482", "tool": "static_check", "success": true, "issues": []}
