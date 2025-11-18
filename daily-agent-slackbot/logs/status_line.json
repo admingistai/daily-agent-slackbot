@@ -1,0 +1,1771 @@
+[
+  {
+    "timestamp": "2025-11-18T11:37:47.506959",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.4188137500000002,
+        "total_duration_ms": 1826921,
+        "total_api_duration_ms": 229737,
+        "total_lines_added": 350,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:37:52.664309",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.4478293000000002,
+        "total_duration_ms": 1832078,
+        "total_api_duration_ms": 234271,
+        "total_lines_added": 364,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:38:08.221701",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.48830425,
+        "total_duration_ms": 1847633,
+        "total_api_duration_ms": 249184,
+        "total_lines_added": 445,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:38:19.216673",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5280043,
+        "total_duration_ms": 1858628,
+        "total_api_duration_ms": 258723,
+        "total_lines_added": 526,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:38:19.224334",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.5280043,
+        "total_duration_ms": 1858637,
+        "total_api_duration_ms": 258723,
+        "total_lines_added": 526,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:38:30.484093",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.567379,
+        "total_duration_ms": 1869896,
+        "total_api_duration_ms": 267787,
+        "total_lines_added": 616,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:38:45.956264",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6109016500000002,
+        "total_duration_ms": 1885367,
+        "total_api_duration_ms": 280352,
+        "total_lines_added": 715,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:38:58.992067",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6509027500000002,
+        "total_duration_ms": 1898406,
+        "total_api_duration_ms": 289740,
+        "total_lines_added": 784,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:39:14.283842",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6909473500000003,
+        "total_duration_ms": 1913694,
+        "total_api_duration_ms": 300605,
+        "total_lines_added": 857,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:39:14.289456",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.6909473500000003,
+        "total_duration_ms": 1913702,
+        "total_api_duration_ms": 300605,
+        "total_lines_added": 857,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:39:28.337765",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7283102500000003,
+        "total_duration_ms": 1927745,
+        "total_api_duration_ms": 309492,
+        "total_lines_added": 857,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:39:28.340091",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7283102500000003,
+        "total_duration_ms": 1927754,
+        "total_api_duration_ms": 309492,
+        "total_lines_added": 857,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:39:35.438922",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7599007000000002,
+        "total_duration_ms": 1934854,
+        "total_api_duration_ms": 316428,
+        "total_lines_added": 857,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:39:43.806383",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7932995000000003,
+        "total_duration_ms": 1943216,
+        "total_api_duration_ms": 325750,
+        "total_lines_added": 891,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:39:43.809636",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.7932995000000003,
+        "total_duration_ms": 1943223,
+        "total_api_duration_ms": 325750,
+        "total_lines_added": 891,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:39:57.441899",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.8286399500000003,
+        "total_duration_ms": 1956852,
+        "total_api_duration_ms": 333402,
+        "total_lines_added": 948,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:39:57.448787",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.8286399500000003,
+        "total_duration_ms": 1956861,
+        "total_api_duration_ms": 333402,
+        "total_lines_added": 948,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:40:11.049204",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.8635458500000004,
+        "total_duration_ms": 1970462,
+        "total_api_duration_ms": 340271,
+        "total_lines_added": 989,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:40:25.589698",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.8972985500000004,
+        "total_duration_ms": 1984972,
+        "total_api_duration_ms": 347274,
+        "total_lines_added": 1023,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:40:25.603869",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.8972985500000004,
+        "total_duration_ms": 1984982,
+        "total_api_duration_ms": 347274,
+        "total_lines_added": 1023,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:40:39.683491",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.9284001500000003,
+        "total_duration_ms": 1999097,
+        "total_api_duration_ms": 350844,
+        "total_lines_added": 1028,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:40:56.828067",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.9642509000000004,
+        "total_duration_ms": 2016242,
+        "total_api_duration_ms": 358676,
+        "total_lines_added": 1064,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:41:16.105146",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.0028336,
+        "total_duration_ms": 2035518,
+        "total_api_duration_ms": 367200,
+        "total_lines_added": 1122,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:41:31.118879",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.0352277500000002,
+        "total_duration_ms": 2050526,
+        "total_api_duration_ms": 370861,
+        "total_lines_added": 1125,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:41:31.119678",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.0352277500000002,
+        "total_duration_ms": 2050533,
+        "total_api_duration_ms": 370861,
+        "total_lines_added": 1125,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:41:51.549503",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.0723859000000004,
+        "total_duration_ms": 2070961,
+        "total_api_duration_ms": 378984,
+        "total_lines_added": 1177,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:42:15.096420",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.1126849000000005,
+        "total_duration_ms": 2094502,
+        "total_api_duration_ms": 389329,
+        "total_lines_added": 1247,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:42:15.099514",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.1126849000000005,
+        "total_duration_ms": 2094510,
+        "total_api_duration_ms": 389329,
+        "total_lines_added": 1247,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:42:32.969338",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.1458227500000007,
+        "total_duration_ms": 2112376,
+        "total_api_duration_ms": 393102,
+        "total_lines_added": 1250,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:42:32.975388",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.1458227500000007,
+        "total_duration_ms": 2112384,
+        "total_api_duration_ms": 393102,
+        "total_lines_added": 1250,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:42:51.927017",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.1783369000000006,
+        "total_duration_ms": 2131336,
+        "total_api_duration_ms": 397027,
+        "total_lines_added": 1259,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:43:15.821538",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.2146594000000004,
+        "total_duration_ms": 2155232,
+        "total_api_duration_ms": 404710,
+        "total_lines_added": 1259,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:43:21.873007",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.2478644500000002,
+        "total_duration_ms": 2161285,
+        "total_api_duration_ms": 410531,
+        "total_lines_added": 1259,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:43:31.038846",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.2879462500000005,
+        "total_duration_ms": 2170438,
+        "total_api_duration_ms": 420665,
+        "total_lines_added": 1351,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:43:31.058436",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.2879462500000005,
+        "total_duration_ms": 2170454,
+        "total_api_duration_ms": 420665,
+        "total_lines_added": 1351,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:44:01.136631",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.3356915500000004,
+        "total_duration_ms": 2200548,
+        "total_api_duration_ms": 436257,
+        "total_lines_added": 1494,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:44:19.601674",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.3711361,
+        "total_duration_ms": 2219015,
+        "total_api_duration_ms": 440866,
+        "total_lines_added": 1497,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:44:44.246192",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.4087582000000003,
+        "total_duration_ms": 2243660,
+        "total_api_duration_ms": 451990,
+        "total_lines_added": 1497,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:44:49.667856",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.4421905,
+        "total_duration_ms": 2249082,
+        "total_api_duration_ms": 457182,
+        "total_lines_added": 1497,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:44:54.230263",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.4757838,
+        "total_duration_ms": 2253644,
+        "total_api_duration_ms": 463169,
+        "total_lines_added": 1509,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:45:11.491698",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.5098362,
+        "total_duration_ms": 2270904,
+        "total_api_duration_ms": 468082,
+        "total_lines_added": 1525,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:45:27.948674",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.5432538,
+        "total_duration_ms": 2287361,
+        "total_api_duration_ms": 472905,
+        "total_lines_added": 1535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:45:27.956418",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.5432538,
+        "total_duration_ms": 2287371,
+        "total_api_duration_ms": 472905,
+        "total_lines_added": 1535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:45:44.726288",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.5790636,
+        "total_duration_ms": 2304136,
+        "total_api_duration_ms": 478616,
+        "total_lines_added": 1563,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:45:59.521335",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.6138513,
+        "total_duration_ms": 2318934,
+        "total_api_duration_ms": 483175,
+        "total_lines_added": 1583,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:46:19.900463",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.65382045,
+        "total_duration_ms": 2339316,
+        "total_api_duration_ms": 493321,
+        "total_lines_added": 1616,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:46:38.365338",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.6931038,
+        "total_duration_ms": 2357780,
+        "total_api_duration_ms": 502068,
+        "total_lines_added": 1616,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:46:43.075916",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.7271240999999997,
+        "total_duration_ms": 2362491,
+        "total_api_duration_ms": 506530,
+        "total_lines_added": 1616,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:47:05.090418",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.7730590999999998,
+        "total_duration_ms": 2384503,
+        "total_api_duration_ms": 529584,
+        "total_lines_added": 1721,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:47:17.888968",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.8094107,
+        "total_duration_ms": 2397303,
+        "total_api_duration_ms": 533691,
+        "total_lines_added": 1723,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:47:37.267792",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.8478566,
+        "total_duration_ms": 2416682,
+        "total_api_duration_ms": 544058,
+        "total_lines_added": 1723,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m3 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:47:41.897433",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.8829728,
+        "total_duration_ms": 2421314,
+        "total_api_duration_ms": 548437,
+        "total_lines_added": 1729,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m4 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:47:57.841691",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.91945835,
+        "total_duration_ms": 2437253,
+        "total_api_duration_ms": 556388,
+        "total_lines_added": 1729,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m4 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:47:57.846372",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.91945835,
+        "total_duration_ms": 2437262,
+        "total_api_duration_ms": 556388,
+        "total_lines_added": 1729,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m4 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:48:03.907116",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.9568674500000003,
+        "total_duration_ms": 2443321,
+        "total_api_duration_ms": 562291,
+        "total_lines_added": 1750,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m4 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:48:20.899903",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.9963698,
+        "total_duration_ms": 2460312,
+        "total_api_duration_ms": 572226,
+        "total_lines_added": 1750,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m4 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:48:53.437282",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.055003,
+        "total_duration_ms": 2492851,
+        "total_api_duration_ms": 604495,
+        "total_lines_added": 2007,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m5 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:49:09.226361",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.0997430500000003,
+        "total_duration_ms": 2508639,
+        "total_api_duration_ms": 613954,
+        "total_lines_added": 2007,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m5 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:49:14.604102",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.1356943000000004,
+        "total_duration_ms": 2514016,
+        "total_api_duration_ms": 619062,
+        "total_lines_added": 2007,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m5 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:49:35.728309",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.1866468500000003,
+        "total_duration_ms": 2535107,
+        "total_api_duration_ms": 641123,
+        "total_lines_added": 2007,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m5 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  },
+  {
+    "timestamp": "2025-11-18T11:50:25.126875",
+    "input_data": {
+      "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+      "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/daily-agent-slackbot",
+        "project_dir": "/Users/tjmcgovern/daily-agent-slackbot"
+      },
+      "version": "2.0.45",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.2259512500000005,
+        "total_duration_ms": 2584539,
+        "total_api_duration_ms": 648240,
+        "total_lines_added": 2007,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36mSonnet 4.5\u001b[0m | \u001b[34m\ud83d\udcc1 daily-agent-slackbot\u001b[0m | \u001b[33m\ud83d\udce6 Node\u001b[0m | \u001b[90m5 files\u001b[0m | \u001b[90m#183a3c99\u001b[0m"
+  }
+]

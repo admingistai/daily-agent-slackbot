@@ -1,0 +1,42 @@
+[
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "I want you to connect the directory to this github \"https://github.com/admingistai/daily-agent-slackbot\" via ssh. tell me the ssh keys avalable "
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "try id_ed25519.pub"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "plan",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "read @docs/PRD.md and we will prepare to scaffold our project."
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "plan",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "read @docs/PRD.md and we will prepare to scaffold our project.\n\nwere gonna use slacks slackbot infa and only have it recieve messages from the agents and send to channel \n\nconsole will only interact with the agents"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": " git add . and push to github"
+  }
+]

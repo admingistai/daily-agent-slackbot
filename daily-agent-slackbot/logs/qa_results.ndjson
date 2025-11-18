@@ -1,0 +1,879 @@
+{"timestamp": "2025-11-18T11:35:33.309056", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:33.336211", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:33.371647", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:33.398820", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:33.421148", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:38.813518", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:38.833190", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:38.857419", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:38.888522", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:38.913953", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:38.933655", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:45.258138", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:45.275793", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:45.301400", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:45.343242", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:45.373746", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:45.398460", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:51.217663", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:51.236982", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:51.255209", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:51.279938", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:51.324646", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:51.352012", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:35:51.373775", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:27.308429", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:27.327859", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:27.346603", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:27.373355", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:27.452377", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:27.486455", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:27.507366", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:27.527812", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:32.061124", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:32.079767", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:32.099066", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:32.126222", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:32.212735", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:32.247232", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:32.266943", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:32.286317", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:32.306489", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:37.887234", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:37.906465", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:37.924674", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:37.951798", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:38.049799", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:38.084011", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:38.103530", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:38.122330", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:38.140608", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:38.158859", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.366578", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.386099", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.405181", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.432850", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.538821", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.574720", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.593946", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.612177", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.630091", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.648323", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:43.666606", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.021382", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.040325", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.058789", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.088183", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.207469", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.241385", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.260177", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.278481", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.296787", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.315687", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.334205", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:49.352666", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:53.986416", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.005790", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.025365", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.054493", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.188203", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.223952", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.242671", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.261333", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.279634", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.298131", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.316357", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.334487", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:36:54.352516", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:00.846603", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:00.865796", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:00.884083", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:00.913386", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.049973", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.086931", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.106023", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.124885", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.142932", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.161293", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.179684", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.198281", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.216766", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:01.236476", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.158877", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.177311", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.196537", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.227831", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.371186", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.410992", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.429684", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.448458", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.466505", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.486082", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.504825", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.523361", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.541734", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.560189", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:12.578426", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:18.966787", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:18.985282", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.003659", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.036087", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.186537", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.229376", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.248665", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.269745", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.288304", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.306984", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.325428", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.345378", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.364258", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.382594", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.400855", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:19.420106", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:24.752144", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:24.770970", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:24.789952", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:24.822916", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:24.983241", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.028637", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.047522", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.065983", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.084084", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.101946", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.120607", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.139048", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.157638", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.176812", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.195894", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.214801", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:25.233570", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.529396", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.548045", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.567192", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.601460", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.779811", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.826777", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.846363", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.864861", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.884636", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.905422", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.926195", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.944872", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.963406", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:29.982167", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:30.002871", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:30.024325", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:30.046287", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:30.065993", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.326940", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.345437", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.363632", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.381410", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.415977", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.434290", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.484741", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.506196", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.525367", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.543501", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.562039", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.580078", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.598903", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.617313", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.635485", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.653897", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.673365", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.691516", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:47.709726", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.487211", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.505221", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.522905", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.540251", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.558730", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.593786", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.612728", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.668407", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.687883", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.706486", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.724668", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.742319", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.760565", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.778441", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.796533", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.814734", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.832930", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.850993", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.868739", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:37:52.886727", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:08.043226", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:08.061536", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:08.079707", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:08.907755", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:08.926547", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:08.944981", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:08.980549", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.000138", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.050173", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.068992", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.086836", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.104530", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.122720", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.140705", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.158656", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.176589", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.194424", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.212470", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.230932", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.248772", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:09.266712", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:19.060961", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:19.079216", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:19.097459", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:19.879072", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:20.632624", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:20.651970", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.670631", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.707206", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.728980", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.779498", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.798600", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.816461", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.834035", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.852292", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.871163", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.889370", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.907758", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.925935", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.944022", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.962266", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.980197", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:20.998218", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:30.310823", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:30.328861", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:30.347660", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:31.115835", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:31.858076", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:32.609784", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:32.628367", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.646219", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.682748", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.706322", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.756512", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.774673", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.793127", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.811251", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.829283", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.847024", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.866606", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.884616", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.902672", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.920616", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.938765", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:32.957117", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:45.779061", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:45.796972", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:45.815814", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:46.582819", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:47.336265", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:48.086218", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:48.832298", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:38:48.850670", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:48.868910", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:48.905337", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:48.930251", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:48.981925", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.000034", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.017753", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.035798", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.053525", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.071380", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.089759", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.107825", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.125765", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.144375", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.162574", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:49.181008", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:58.825192", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:58.843532", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:58.862528", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:38:59.639797", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:00.391723", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:01.141723", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:01.893880", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:01.912544", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.656541", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:02.678239", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.715876", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.743979", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.795590", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.814190", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.832052", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.849623", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.867876", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.886377", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.904271", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.922547", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.940663", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.958791", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.976978", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:02.995267", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:14.114215", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:14.132462", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:14.150682", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:14.915529", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:15.667480", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:16.422955", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:17.168413", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:17.186836", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:17.936677", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:17.955582", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.698738", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:18.735375", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.768446", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.820531", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.839090", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.857132", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.874880", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.893211", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.911001", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.929462", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.947370", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.965370", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:18.983307", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:19.001254", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:19.019533", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:43.637118", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:43.655664", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:43.674040", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:44.442000", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:45.216565", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:45.961236", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:46.720174", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:46.738477", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:47.480097", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:47.498797", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:48.264547", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:48.302660", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:48.356029", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:48.411922", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:48.430215", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:48.448184", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.196194", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.214840", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.233129", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.251278", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.268878", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.287204", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.306474", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.324846", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.343079", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:49.360977", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:57.276184", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:57.294135", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:57.313063", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:39:58.078147", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:58.831391", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:39:59.583072", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:00.346390", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:00.365603", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:01.123675", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:01.142410", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:01.899697", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:01.938266", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:01.997209", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:02.052818", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:02.071323", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:02.089474", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:02.828395", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.573685", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.592178", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.610039", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.627889", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.645737", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.663778", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.682187", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.700280", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.718567", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:03.736650", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:10.878716", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:10.898333", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:10.916222", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:11.689400", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:12.448341", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:13.207721", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:13.964817", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:13.983391", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:14.757198", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:14.776186", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:15.535423", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:15.574586", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:15.638060", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:15.693822", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:15.712322", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:15.730829", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:16.478028", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:17.227035", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:17.968552", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:17.987511", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:18.005862", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:18.023875", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:18.041757", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:18.059938", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:18.078002", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:18.096288", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:18.114351", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:18.132157", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:25.527827", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:25.565119", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:25.600539", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:27.186661", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:28.627635", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:29.755341", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:30.632928", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:30.653761", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:31.420349", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:31.440005", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:32.199463", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:32.240823", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:32.319747", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:32.382223", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:32.403303", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:32.422948", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:33.188712", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:33.947654", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:34.723153", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.502945", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.522921", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.543314", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.562265", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.581198", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.600002", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.618701", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.637766", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.656657", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:35.675248", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:39.545196", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:40.385677", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:41.156290", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:41.931166", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:42.691237", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:42.711171", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:43.478631", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:43.498080", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:44.254867", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:44.296239", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:44.377462", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:44.436995", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:44.456737", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:44.476929", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:45.293292", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:46.074016", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:46.851946", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:47.621560", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.382498", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.401595", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.420811", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.439884", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.459208", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.479277", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.499167", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.519313", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.538099", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:48.556861", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:40:57.438247", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:58.222513", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:59.040346", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:59.940147", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:40:59.961779", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:00.795856", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:00.819064", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:01.640894", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:01.683134", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:01.772115", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:01.835097", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:01.855164", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:01.875088", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:02.681118", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:03.461127", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:04.259246", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:05.086538", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:05.946086", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:06.932421", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:06.957277", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:06.978429", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:07.001236", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:07.023635", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:07.044240", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:07.066233", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:07.086983", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:07.107608", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:07.129610", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:16.751011", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:17.553819", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:18.358414", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:19.140361", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:19.160734", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:19.929664", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:19.949454", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:20.763546", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:20.838936", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:20.934600", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:20.995249", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:21.014821", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:21.034165", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:21.807050", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:22.601555", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:23.362059", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:24.145874", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:24.951593", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:25.920500", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:26.838624", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:26.858438", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:26.878130", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:26.897719", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:26.917214", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:26.936336", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:26.956148", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:26.976118", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:26.995382", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:27.014686", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:31.798713", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:32.632813", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:33.402630", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:34.172767", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:34.192388", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:34.967140", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:34.986423", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:35.788411", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:35.831894", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:35.942538", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:36.003822", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:36.023901", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:36.799733", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:37.613448", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:38.429401", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:39.213282", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:40.015033", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:40.946691", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:41.877585", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.793462", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.813364", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.833189", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.852251", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.872010", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.892083", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.910921", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.929727", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.949392", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:42.969476", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:52.151559", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:52.925632", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:53.697100", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:54.473122", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:54.495605", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:55.296809", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:55.316229", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:56.085524", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:41:56.127918", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:56.242898", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:56.305105", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:57.072263", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:57.843157", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:58.622380", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:41:59.429747", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:00.300266", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:01.150664", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:02.152406", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:03.137710", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:04.146833", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:04.169958", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:04.191655", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:04.213562", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:04.236368", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:04.259275", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:04.281719", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:15.788282", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:16.606989", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:17.433941", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:18.268920", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:18.293320", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:19.123109", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:19.145001", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:19.968753", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:20.013546", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:20.149483", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:20.216026", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:21.030748", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:21.861213", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:22.678480", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:23.494916", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:24.295960", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:25.068270", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:25.859072", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:26.782491", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:27.714099", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:28.649470", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:28.672103", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:28.697570", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:28.720134", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:33.652879", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:34.595232", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:35.434073", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:36.259020", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:36.283170", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:37.109783", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:37.134069", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:37.965034", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:38.010962", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:38.163808", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:38.230272", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:39.049508", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:39.855332", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:40.682315", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:41.470580", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:42.264073", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:43.066154", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:43.878093", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:44.698526", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:45.647028", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:46.593761", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:47.521562", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:52.573008", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/schema.ts:1:43", "message": "error TS2307: Cannot find module 'convex/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/schema.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:53.418478", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:54.224333", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/dataSources.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/dataSources.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:55.028395", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/agents.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/agents.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:55.845325", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:55.866507", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:56.688638", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:42:56.735096", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:56.899530", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:56.966119", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:57.971689", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:58.805810", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:42:59.594039", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:00.414657", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:01.248517", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:02.114638", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:02.972514", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:03.800247", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:04.642638", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:05.710444", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:06.694404", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:07.675663", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:32.027044", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/knowledge.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/knowledge.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:43:32.842528", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/slackMessages.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/slackMessages.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:43:33.643137", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:43:33.689920", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:33.885320", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:33.949036", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:34.891610", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:35.689691", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:36.500906", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:37.300905", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:38.128633", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:38.987632", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:39.796331", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:40.614987", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:41.417521", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:42.378011", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:43.358887", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:44.289438", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:43:45.073641", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:44:01.814533", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "convex/ingestionJobs.ts:1:33", "message": "error TS2307: Cannot find module './_generated/server' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "convex/ingestionJobs.ts:2:19", "message": "error TS2307: Cannot find module 'convex/values' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:44:01.859209", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:02.064415", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:02.132296", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:03.164131", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:03.995937", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:04.859249", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:05.686362", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:06.520318", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:07.370185", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:08.217076", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:09.002893", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:09.780799", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:10.747655", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:11.773343", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:12.786491", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:13.655733", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:44:14.519211", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:44:19.500584", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:19.706677", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:19.772041", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:20.795848", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:21.654019", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:22.455313", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:23.262599", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:24.079757", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:24.856627", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:25.640374", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:26.421671", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:27.217398", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:28.205602", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:29.194381", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:30.161695", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:30.973882", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:44:31.811808", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:44:32.650751", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:44:54.108970", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:54.343861", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:54.408494", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:55.360593", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:56.130301", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:56.899180", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:57.676390", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:58.440761", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:44:59.221145", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:00.020284", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:00.819626", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:01.767415", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:02.709313", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:03.654958", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:04.471694", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:05.270192", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:06.081794", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:06.101270", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:11.392950", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:11.643509", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:11.713445", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:12.725015", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:13.535799", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:14.351211", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:15.155264", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:15.941298", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:16.718099", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:17.651801", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:18.565825", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:19.464278", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:20.241725", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:21.036505", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:21.826598", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:21.846540", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:22.646758", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:27.846843", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:28.105652", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:28.170423", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:29.177748", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:29.980616", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:30.785201", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:31.576836", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:32.377437", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:33.334758", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:34.260832", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:35.205009", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:36.011550", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:36.819321", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:37.672645", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:37.693246", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:38.520491", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:44.623430", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:44.907766", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:44.974245", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:45.967549", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:46.775228", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:47.565688", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:48.366551", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:49.307989", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:50.273651", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:51.231367", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:52.037950", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:52.861168", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:53.658531", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:53.677873", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:54.469546", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:45:59.424440", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:59.726146", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:45:59.796560", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:00.762807", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:01.563408", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:02.378761", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:03.189507", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:04.136413", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:05.083245", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:05.894373", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:06.725853", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:07.560555", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:07.581583", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:08.440050", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:09.261645", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/layout.tsx:1:31", "message": "error TS2307: Cannot find module 'next' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:12:13", "message": "error TS2503: Cannot find namespace 'React'.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:15:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:16:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:19.788777", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:20.091050", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:20.157913", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:21.098527", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:21.871063", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:22.656415", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:23.425543", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:24.327570", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:25.114714", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:25.914880", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:26.712811", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:26.733009", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:46:27.504813", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:28.314937", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/layout.tsx:1:31", "message": "error TS2307: Cannot find module 'next' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:12:13", "message": "error TS2503: Cannot find namespace 'React'.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:15:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:16:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:46:29.126538", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/page.tsx:3:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:4:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:5:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:6:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:9:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:10:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:11:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:12:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:16:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:17:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:18:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:22:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:23:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:24:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:04.984934", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:05.328529", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:05.394517", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:06.310629", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:07.089786", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:07.855721", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:08.618946", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:09.386535", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:10.182256", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:10.949996", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:1:47", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:2:43", "message": "error TS2307: Cannot find module '@daily-agent/slack' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:10.969122", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:11.727300", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:12.503361", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/layout.tsx:1:31", "message": "error TS2307: Cannot find module 'next' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:12:13", "message": "error TS2503: Cannot find namespace 'React'.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:15:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:16:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:13.288772", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/page.tsx:3:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:4:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:5:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:6:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:9:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:10:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:11:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:12:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:16:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:17:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:18:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:22:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:23:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:24:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:17.775747", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:18.133201", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:18.201228", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:19.163510", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:19.949675", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:20.745655", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:21.551849", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:22.385366", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:23.177519", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:1:47", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:2:43", "message": "error TS2307: Cannot find module '@daily-agent/slack' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:23.976031", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:1:47", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:2:43", "message": "error TS2307: Cannot find module '@daily-agent/slack' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:23.997757", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:24.796019", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:25.601532", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/layout.tsx:1:31", "message": "error TS2307: Cannot find module 'next' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:12:13", "message": "error TS2503: Cannot find namespace 'React'.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:15:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:16:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:26.410040", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/page.tsx:3:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:4:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:5:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:6:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:9:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:10:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:11:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:12:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:16:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:17:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:18:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:22:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:23:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:24:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:41.767528", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:41.812035", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:42.193476", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:42.263295", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:43.173984", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:43.949579", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:44.709503", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:45.480898", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:46.252052", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:1:47", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:2:43", "message": "error TS2307: Cannot find module '@daily-agent/slack' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:47.035646", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:1:47", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:2:43", "message": "error TS2307: Cannot find module '@daily-agent/slack' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:47.055842", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:47:47.826251", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:48.600642", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/layout.tsx:1:31", "message": "error TS2307: Cannot find module 'next' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:12:13", "message": "error TS2503: Cannot find namespace 'React'.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:15:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:16:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:47:49.382655", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/page.tsx:3:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:4:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:5:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:6:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:9:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:10:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:11:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:12:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:16:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:17:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:18:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:22:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:23:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:24:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:03.774744", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:03.820909", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:04.247620", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:04.316260", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:05.093432", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:05.852815", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:06.628048", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:07.393077", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:1:47", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:2:43", "message": "error TS2307: Cannot find module '@daily-agent/slack' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:08.157162", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:1:47", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:2:43", "message": "error TS2307: Cannot find module '@daily-agent/slack' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:08.175848", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:08.941135", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:09.703514", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/layout.tsx:1:31", "message": "error TS2307: Cannot find module 'next' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:12:13", "message": "error TS2503: Cannot find namespace 'React'.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:15:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:16:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:10.463409", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/page.tsx:3:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:4:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:5:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:6:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:9:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:10:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:11:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:12:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:16:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:17:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:18:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:22:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:23:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:24:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:53.311542", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:53.356742", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:53.810133", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:53.879378", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:54.652426", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:55.417010", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "packages/slack/src/blocks.ts:1:48", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:1:27", "message": "error TS2307: Cannot find module '@slack/web-api' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "packages/slack/src/client.ts:2:58", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:56.177223", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:1:47", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:2:43", "message": "error TS2307: Cannot find module '@daily-agent/slack' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:56.940140", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:1:47", "message": "error TS2307: Cannot find module '@daily-agent/shared' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/agents/src/functions/generate-digest.ts:2:43", "message": "error TS2307: Cannot find module '@daily-agent/slack' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:56.960852", "tool": "static_check", "success": true, "issues": []}
+{"timestamp": "2025-11-18T11:48:57.721390", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/tailwind.config.ts:1:29", "message": "error TS2307: Cannot find module 'tailwindcss' or its corresponding type declarations.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:58.495115", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/layout.tsx:1:31", "message": "error TS2307: Cannot find module 'next' or its corresponding type declarations.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:12:13", "message": "error TS2503: Cannot find namespace 'React'.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:15:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/layout.tsx:16:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}
+{"timestamp": "2025-11-18T11:48:59.255975", "tool": "static_check", "success": true, "issues": [{"type": "lint", "location": "apps/console/app/page.tsx:3:5", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:4:7", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:5:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:6:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:9:9", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:10:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:11:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:12:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:16:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:17:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:18:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:22:11", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:23:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}, {"type": "lint", "location": "apps/console/app/page.tsx:24:13", "message": "error TS17004: Cannot use JSX unless the '--jsx' flag is provided.", "code": "", "severity": 1}]}

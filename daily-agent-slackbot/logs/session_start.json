@@ -1,0 +1,16 @@
+[
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "hook_event_name": "SessionStart",
+    "source": "startup"
+  },
+  {
+    "session_id": "d7176868-6b12-4b69-bfa3-3f68183a3c99",
+    "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern-daily-agent-slackbot/d7176868-6b12-4b69-bfa3-3f68183a3c99.jsonl",
+    "cwd": "/Users/tjmcgovern/daily-agent-slackbot",
+    "hook_event_name": "SessionStart",
+    "source": "resume"
+  }
+]
